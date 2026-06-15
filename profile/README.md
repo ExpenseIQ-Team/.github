@@ -4,14 +4,6 @@
 
 ---
 
-## 🚀 Tech Stack
-
-- React.js  
-- Java (Spring Boot)  
-- MySQL  
-- REST APIs  
-
----
 
 ## 📌 About Project
 
