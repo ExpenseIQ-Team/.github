@@ -6,10 +6,10 @@ A full-stack web application designed to help users efficiently manage their per
 
 ## 👥 Team Members
 
-- Om Giratkar        | 260250320034  
-- Siddhi Bhosale     | 260250320058  
 - Gaurav Gangurde    | 260250320019  
-- Bhavyasree Madduri | 260250320025
+- Madduri Bhavyasre  | 260250320025  
+- Om Giratkar        | 260250320034  
+- Siddhi Bhosale     | 260250320058
 
 ---
 
